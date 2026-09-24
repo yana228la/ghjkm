@@ -1,3 +1,3 @@
-echo "# algorithm-practice" > README.md
-git add .
-git commit -m "Старт проекта"
+# algorithm-practice
+
+Учебный репозиторий для практики работы с Git и GitHub.
